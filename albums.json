@@ -1,0 +1,38 @@
+[
+  {
+    "Album Title": "Thriller",
+    "Music Artist": "Michael Jackson",
+    "Year Released": 1982,
+    "Tracks": [
+      "Wanna Be Startin' Somethin'",
+      "Baby Be Mine",
+      "The Girl Is Mine",
+      "Thriller",
+      "Beat It"
+    ]
+  },
+  {
+    "Album Title": "Rumours",
+    "Music Artist": "Fleetwood Mac",
+    "Year Released": 1977,
+    "Tracks": [
+      "Second Hand News",
+      "Dreams",
+      "Never Going Back Again",
+      "Don't Stop",
+      "Go Your Own Way"
+    ]
+  },
+  {
+    "Album Title": "21",
+    "Music Artist": "Adele",
+    "Year Released": 2011,
+    "Tracks": [
+      "Rolling in the Deep",
+      "Rumour Has It",
+      "Turning Tables",
+      "Don't You Remember",
+      "Set Fire to the Rain"
+    ]
+  }
+]
