@@ -1,0 +1,40 @@
+{
+  "Albums": [
+    {
+      "Album Title": "Escape",
+      "Music Artist": "Enrique Iglesias",
+      "Year Released": 2006,
+      "Tracks": [
+        "Escape",
+        "Love To See You Cry",
+        "Hero",
+        "I Will Survive",
+        "Love 4 Fun"
+      ]
+    },
+    {
+      "Album Title": "Irresistible",
+      "Music Artist": "Jessica Simpson",
+      "Year Released": 2006,
+      "Tracks": [
+        "A Little Bit",
+        "Forever In Your Eyes",
+        "Imagination",
+        "For Your Love",
+        "To Fall In Love Again"
+      ]
+    },
+    {
+      "Album Title": "Nashville Skyline",
+      "Music Artist": "Bob Dylan",
+      "Year Released": 2004,
+      "Tracks": [
+        "Nashville Skyline Rag",
+        "To Be Alone with You",
+        "I Threw It All Away",
+        "Peggy Day",
+        "Country Pie"
+      ]
+    }
+  ]
+}
